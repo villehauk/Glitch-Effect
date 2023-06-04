@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1:hover {
+    text-shadow: red -3px 0, cyan 3px 0;
+}
